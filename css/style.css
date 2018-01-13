@@ -60,7 +60,7 @@ body {
 }
 
 .national-map {
-    background-image: url("../assets/NationalParkCycleTour-small.png");
+    background-image: url("../assets/NationalParkCycleTour-sm.png");
     background-repeat: no-repeat;
     background-position: 70% 25%;
     height: 175px;
@@ -68,7 +68,7 @@ body {
 }
 
 .mnrtf-infographic {
-    background-image: url("../assets/JKane_MNRTF_Infographic-small.png");
+    background-image: url("../assets/JKane_MNRTF_Infographic-sm.png");
     background-repeat: no-repeat;
     background-position: 40% 9%;
     height: 175px;
@@ -83,7 +83,7 @@ body {
 }
 
 .fargo-tileset {
-    background-image: url("../assets/FargoTileset_screenshot.jpg");
+    background-image: url("../assets/FargoTileset-sm.jpg");
     background-repeat: no-repeat;
     background-position: 50% 60%;
     height: 175px;
