@@ -78,7 +78,7 @@ body {
 }
 
 .national-map {
-    background-image: url("../assets/NationalParkCycleTour.png");
+    background-image: url("../assets/NationalParkCycleTour-small.png");
     background-repeat: no-repeat;
     background-position: 70% 25%;
     height: 175px;
@@ -86,7 +86,7 @@ body {
 }
 
 .mnrtf-infographic {
-    background-image: url("../assets/JKane_MNRTF_Infographic-01.png");
+    background-image: url("../assets/JKane_MNRTF_Infographic-small.png");
     background-repeat: no-repeat;
     background-position: 40% 9%;
     height: 175px;
@@ -100,8 +100,8 @@ body {
     height: 175px;
 }
 
-.pollutants-map {
-    background-image: url("../assets/PollutantsReleasedtoLand_screenshot.jpg");
+.fargo-tileset {
+    background-image: url("../assets/FargoTileset_screenshot.jpg");
     background-repeat: no-repeat;
     background-position: 50% 60%;
     height: 175px;
