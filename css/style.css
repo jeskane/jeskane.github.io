@@ -47,8 +47,8 @@ body {
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {background-color: #f1f1f1}
 
-/* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {
+/* Show the dropdown menu on click */
+.dropdown:active .dropdown-content {
     display: block;
 }
 
