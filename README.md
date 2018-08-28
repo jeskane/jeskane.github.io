@@ -1,4 +1,4 @@
-# jeskane.github.io
+# Jessica Kane's Portfolio
 
 This is a portfolio of my Masters work. I completed UW-Madison's Master's in GIS and Web Map Programming in 2018.
 
