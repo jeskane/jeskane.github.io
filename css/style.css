@@ -219,6 +219,13 @@ h3 {
     margin-top: 40px;
 }
 
+
+.center-fit {
+    max-width: 100%;
+    max-height: 75vh;
+    margin: auto;
+}
+
 .fixed-top {
     margin-top: 60px;
 }
